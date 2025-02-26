@@ -53,9 +53,6 @@ This project is a backend implementation for an e-commerce cart system, providin
 ### Video Demo
 [![Watch Demo](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
-## Postman Collection
-You can test all endpoints using the provided Postman collection: [Postman Collection](#)
-
 ## Deployment
 
 To deploy, follow these steps:
