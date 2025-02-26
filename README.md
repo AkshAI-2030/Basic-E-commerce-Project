@@ -45,7 +45,7 @@ To deploy, follow these steps:
 ## Installation & Setup
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/Basic-E-commerce-Project.git
+   git clone https://github.com/AkshAI-2030/Basic-E-commerce-Project.git
    ```
 2. Install dependencies:
    ```sh
