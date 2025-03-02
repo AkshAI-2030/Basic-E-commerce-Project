@@ -51,15 +51,23 @@ This project is a backend implementation for an e-commerce cart system, providin
 - **Vercel Deployment:** [Live Site](https://basice-commerceproject-akshay-arellis-projects.vercel.app/)
 
 ### Video Demo
-[![Watch Demo](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
+<div>
+    <a href="https://www.loom.com/share/1fa588995fd54f17b3d1644e308408dd">
+      <p>Basic-E-commerce-Project-LiveDemo - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/1fa588995fd54f17b3d1644e308408dd">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/1fa588995fd54f17b3d1644e308408dd-0ba118e5ea0ab7a2-full-play.gif">
+    </a>
+  </div>
+  
 ## Deployment
 
 To deploy, follow these steps:
 
 1. Deploy your backend to Vercel or another hosting provider.
 2. Copy the deployed URL.
-3. Configure the frontend to use this backend by updating the API base URL in the frontend settings.
+3. Configure the front end to use this back end by updating the API base URL in the front end settings.
 
 ## Installation & Setup
 
@@ -73,7 +81,7 @@ To deploy, follow these steps:
    ```
 3. Start the server:
    ```sh
-   npm start
+   node index.js
    ```
 
 ## Tech Stack
